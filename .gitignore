@@ -1,0 +1,18 @@
+## .NET
+bin/
+obj/
+*.user
+
+## SQLite local database
+*.db
+*.db-shm
+*.db-wal
+
+## Visual Studio
+.vs/
+
+## User secrets (stored in AppData, not repo)
+secrets.json
+
+## Brief / challenge docs
+*.pdf
